@@ -17,7 +17,7 @@
         mizar01
     </author>
         
-        <AFicon src="AFicon.png" />
+        <icon src="icon.png" />
        
 
 </widget>
