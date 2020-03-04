@@ -16,5 +16,8 @@
     <author href="http://scratch.mit.edu/users/mizar01" email="katemillets@gmail.com">
         mizar01
     </author>
+        
+        <icon src="icon.png" />
+       
 
 </widget>
